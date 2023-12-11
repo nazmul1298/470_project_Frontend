@@ -1,0 +1,14 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Black+Han+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Arizonia&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Scada&display=swap');
+
+.value{
+    font-family: 'Black Han Sans', sans-serif;
+}
+.time{
+    font-family: 'Arizonia', cursive;
+}
+.enroll{
+    font-family: 'Scada', sans-serif;
+}

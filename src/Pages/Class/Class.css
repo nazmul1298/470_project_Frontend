@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Black+Han+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Arizonia&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Scada&display=swap');
+
+
+
+.class-header{
+    left: 850px;
+    font-family: 'Black Han Sans', sans-serif;
+}
+
+.class-sub{
+    font-family: 'Arizonia', cursive;
+    margin-left: 40px;
+}

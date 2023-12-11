@@ -1,0 +1,9 @@
+.extrasection {
+    height: 900px;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Arizonia&display=swap');
+
+.titl {
+    font-family: 'Arizonia', cursive;
+}

@@ -1,0 +1,22 @@
+/* .nvlink{
+    position: relative;
+    text-decoration: none;
+    font-family: ' Poppins', sans-serif;
+    color: azure;
+}
+.nvlink::after{
+    content: "";
+    position: absolute;
+    background-color: blueviolet;
+    height: 3px;
+    width: 0;
+    left: 0;
+    bottom: -10px;
+    transition: 0.3s;
+}
+.nvlink:hover{
+    color: white;
+}
+.nvlink:hover::after{
+    width: 100%;
+} */

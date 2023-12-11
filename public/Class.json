@@ -1,0 +1,50 @@
+[
+  {
+    "_id": "643010f9f5a7e52ce1e8fa61",
+    "image": "image1.jpg",
+    "name": "Class A",
+    "instructorName": "John Doe",
+    "availableSeats": 10,
+    "price": 50
+  },
+  {
+    "_id": "643010f9f5a7e52ce1e8fa62",
+    "image": "image2.jpg",
+    "name": "Class B",
+    "instructorName": "Jane Smith",
+    "availableSeats": 15,
+    "price": 75
+  },
+  {
+    "_id": "643010f9f5a7e52ce1e8fa63",
+    "image": "image3.jpg",
+    "name": "Class C",
+    "instructorName": "Michael Johnson",
+    "availableSeats": 8,
+    "price": 60
+  },
+  {
+    "_id": "643010f9f5a7e52ce1e8fa64",
+    "image": "image4.jpg",
+    "name": "Class D",
+    "instructorName": "Emily Brown",
+    "availableSeats": 12,
+    "price": 80
+  },
+  {
+    "_id": "643010f9f5a7e52ce1e8fa65",
+    "image": "image5.jpg",
+    "name": "Class E",
+    "instructorName": "David Wilson",
+    "availableSeats": 5,
+    "price": 45
+  },
+  {
+    "_id": "643010f9f5a7e52ce1e8fa66",
+    "image": "image6.jpg",
+    "name": "Class F",
+    "instructorName": "Sarah Thompson",
+    "availableSeats": 20,
+    "price": 90
+  }
+]
